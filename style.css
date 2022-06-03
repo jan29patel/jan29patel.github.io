@@ -31,3 +31,8 @@ nav{
 span{
     color: #f9004d;
 }
+
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+}
